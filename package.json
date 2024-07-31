@@ -53,6 +53,7 @@
     "link-preview-js": "^3.0.4",
     "moment-timezone": "^0.5.43",
     "mumaker": "^2.0.0",
+    "nayan-media-downloader": "^2.4.5",
     "node-cron": "^3.0.3",
     "node-fetch": "^3.2.6",
     "node-id3": "^0.2.6",
@@ -69,6 +70,6 @@
     "youtube-yts": "^2.0.0",
     "youtubedl-core": "^4.11.7",
     "yt-search": "^2.10.4",
-    "ytdl-core": "github:soya-daizu/ytdl-core#sig-patch"
+    "ytdl-core": "github:franceking1/flash-dls"
   }
 }
